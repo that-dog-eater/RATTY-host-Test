@@ -112,7 +112,7 @@ Available Commands:
 def start_server():
 
 
-    host = '150.136.174.71'#----fix-----
+    host = '0.0.0.0'#----fix-----
     port = 4444 #----fix-----
 
 
