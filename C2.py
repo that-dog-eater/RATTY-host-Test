@@ -113,7 +113,7 @@ def start_server():
 
 
     host = '0.0.0.0'#----fix-----
-    port = 4444 #----fix-----
+    port = 443 #----fix-----
 
 
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
